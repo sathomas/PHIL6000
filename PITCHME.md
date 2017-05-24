@@ -17,7 +17,9 @@
 * fast, easy, and cheap (kits available online for $150)
 * can circumvent natural evolution via gene drive
 
-+++?http://cdn3.bigcommerce.com/s-89v4ku3/products/195/images/526/SXSWAdEdit__30029.1487704062.1280.1280.jpg?c=2
++++
+
+![](http://cdn3.bigcommerce.com/s-89v4ku3/products/195/images/526/SXSWAdEdit__30029.1487704062.1280.1280.jpg?c=2)
 
 ---
 
