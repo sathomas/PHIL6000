@@ -39,7 +39,8 @@
 
 +++
 
-"Bruce Harrison, an entomologist at the North Carolina Department of Environment and Natural Resources in Winston-Salem estimates that the number of migratory birds that nest in the tundra could drop by more than 50% without mosquitoes to eat." http://www.nature.com/news/2010/100721/full/466432a.html
+* "Bruce Harrison, an entomologist at the North Carolina Department of Environment and Natural Resources in Winston-Salem estimates that the number of migratory birds that nest in the tundra could drop by more than 50% without mosquitoes to eat."
+    - http://www.nature.com/news/2010/100721/full/466432a.html
 
 ---
 
