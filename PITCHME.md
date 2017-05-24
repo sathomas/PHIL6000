@@ -3,7 +3,7 @@
 
 ---
 
-### CRISPR is relative new technology for editing DNA of living organisms
+### CRISPR is a relatively new technology for editing DNA of living organisms
 
 * identifies specific DNA sequences to target
 * delete, change, or add to those sequences
