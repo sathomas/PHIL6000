@@ -28,7 +28,7 @@
 
 ### Ethical Concerns when Applied to Humans
 
-* Necessity vs. convenience (curing Huntington's Disease vs. boosting child's IQ)
+* Necessity vs. convenience (curing Cystic fibrosis vs. boosting child's IQ)
 * Informed consent (e.g. when applied to embryos or from state coercion)
 * Effect on social equality (if not available to all)
 
