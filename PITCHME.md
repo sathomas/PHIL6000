@@ -73,9 +73,3 @@
 * Legislation (if public consensus is that constraints should be placed on the technology)
 * International coordination (e.g. if Zambia decides to eliminate mosquitos, that would also eliminate mosquitos from Tanzania, etc.)
 
----
-
-### Sources
-
-* "DIY Bacterial Gene Engineering CRISPR Kit" available online for $150 [http://www.the-odin.com/diy-crispr-kit/](http://www.the-odin.com/diy-crispr-kit/)
-* "Bruce Harrison, an entomologist at the North Carolina Department of Environment and Natural Resources in Winston-Salem estimates that the number of migratory birds that nest in the tundra could drop by more than 50% without mosquitoes to eat." -- [http://www.nature.com/news/2010/100721/full/466432a.html](http://www.nature.com/news/2010/100721/full/466432a.html)
