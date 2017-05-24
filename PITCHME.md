@@ -25,8 +25,21 @@
 
 ### Ethical Concerns
 
-*  The power of CRISPR highlights ethical issues with gene editing that previously could be dismissed as "purely academic"
-* Ecosystem disruption (e.g. using CRISPR to eliminate mosquitos that carry malaria => many migrating birds spend entire seasons in the arctic where mosquitos are their major food source)
+* The power of CRISPR highlights ethical issues with gene editing that previously could be dismissed as "purely academic"
+* Ecosystem disruption
+* Incomplete understanding
+* Intrinsic errors in the technology
+* Errors in its application
+
++++
+
+* using CRISPR to eliminate mosquitos that carry malaria => many migrating birds spend entire seasons in the arctic where mosquitos are their major food source)
+* engineered species may have competitive advantage over existing member of the species or other species, could lead to homogenized gene pool and decreased biodiversity
+* a virus that was engineered to simulate human lung cancer in mice could have easily lead to human infections if there were mistakes in the design of the guide RNA
+
++++
+
+"Bruce Harrison, an entomologist at the North Carolina Department of Environment and Natural Resources in Winston-Salem estimates that the number of migratory birds that nest in the tundra could drop by more than 50% without mosquitoes to eat." http://www.nature.com/news/2010/100721/full/466432a.html
 
 ---
 
@@ -43,6 +56,14 @@
 * Researchers not limited to traditional scientists
 * Even "isolated" experiments may have wide-ranging impact due to unintended consequences
 * Traditional research ethics process (IRBs, funding restrictions, etc.) may be inadequate (researchers have already defied the voluntary moratorium on human embryo experimentation)
+
++++
+
+* "Teams from the Alverno High School [...] will receive grants of up to US$5,000 for use as they choose to participate in the competition."
+    - http://www.genscript.com/GenScript-Announces-Winners-of-iGEM-CRISPR-Cas9-Grant.html
+
+* "CRISPR has been done by high school students." 
+    - http://www.economist.com/news/briefing/21661799-it-now-easy-edit-genomes-plants-animals-and-humans-age-red-pen
 
 ---
 
